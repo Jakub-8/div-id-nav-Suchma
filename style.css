@@ -1,0 +1,30 @@
+#block1{
+    background-color: #0088ff;
+    border: 1px solid #ccc;
+}
+
+#block2{
+    background-color: #ff9c07;
+    border: 1px solid #ccc;
+}
+
+#block3{
+    background-color: #ff008c;
+    border: 1px solid #ccc;
+}
+
+#block1 h2{
+    color: #0000ff;
+}
+
+#block2 h2{
+    color: #ffd900;
+}
+
+#block3 h2{
+    color: #48ff00;
+}
+
+a:hover{
+    text-decoration: underline;
+}
